@@ -61,5 +61,14 @@ print(BMW)
 BMW.sort()
 print(BMW)
 
+#Count:
 wv=len(BMW)
 print(wv)
+
+print ("-----------------------")
+
+# For: 
+tuners = ['Brabus', 'ABT' , 'Mansory' , 'Alpina']
+
+for tuner in tuners:
+    print(tuner)
