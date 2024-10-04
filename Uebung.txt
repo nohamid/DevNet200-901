@@ -6,4 +6,4 @@ Das ist jetzt die Finale Uebung ob es so funktioniert, wie ich es mir vorstelle!
 # Dieses Dokument wurde mit der newfeature Branch zum testen veraendert
 >>>>>>> newfeature
 
-So dann schauen wir mal ob GIT diff uns das anzeigt :D
+So dann schauen wir now  mal ob GIT diff uns das anzeigt :D
