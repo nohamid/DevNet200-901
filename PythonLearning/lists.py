@@ -67,9 +67,24 @@ print(wv)
 
 print ("-----------------------")
 
-# For: 
-tuners = ['Brabus', 'ABT' , 'Mansory' , 'Alpina']
+# Find min and max in List:
+digits = [1,2,3,4,5]
+print(min(digits))
+print(max(digits))
 
-for tuner in tuners:
-    print(tuner)
-    print (f"{tuner.title()} deliver great products!")
+# Just get the first 3 Numbers:
+print(digits[:3])
+# Get the second until third digits:
+print(digits[1:3])
+
+print ("-----------------------")
+
+# Tuples are Lists but you can't change the order:
+dimensions = (200,50)
+print(dimensions[0])
+print (dimensions[1])
+
+# have to renew the whole variable
+dimensions = (300,50)
+print(dimensions[0])
+print (dimensions[1])
