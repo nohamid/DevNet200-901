@@ -84,7 +84,9 @@ dimensions = (200,50)
 print(dimensions[0])
 print (dimensions[1])
 
-# have to renew the whole variable
+print ("-----------------------")
+
+# Have to recreathe the tuple: 
 dimensions = (300,50)
 print(dimensions[0])
 print (dimensions[1])
