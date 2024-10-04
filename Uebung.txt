@@ -1,3 +1,7 @@
 Das ist jetzt die Finale Uebung ob es so funktioniert, wie ich es mir vorstelle! 
 
+<<<<<<< HEAD
 # Das wurde jetzt mit der main branch veraendert 
+=======
+# Dieses Dokument wurde mit der newfeature Branch zum testen veraendert
+>>>>>>> newfeature
