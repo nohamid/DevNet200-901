@@ -1,0 +1,7 @@
+################################################################
+Das ist die GIT Anleitung fuer die DevNet 200-901 Zertifizierung 
+################################################################
+
+# GIT Repository local clonen:
+git clone https://github.com/nohamid/DevNet200-901.git
+
