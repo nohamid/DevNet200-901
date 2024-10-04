@@ -1,4 +1,4 @@
-Apple = ['iPhone', 'iPad', 'MacBook', 'Apple Watch', 'AirPods',]
+Apple = ['iPhone', 'iPad', 'MacBook', 'Apple Watch', 'AirPods']
 print(Apple[0])
 print(Apple[1])
 print(Apple[2])
