@@ -27,13 +27,13 @@ class Robot:
            
 robot1 = Robot('Zed-6' , 6)
 
-print(robot1.name)
-print(robot1.age)
-robot1.sit()
-robot1.walk()            
-robot1.number_routines()
-robot1.update_routines(2)
-robot1.update_routines(-1)
+#print(robot1.name)
+#print(robot1.age)
+#robot1.sit()
+#robot1.walk()            
+#robot1.number_routines()
+#robot1.update_routines(2)
+#robot1.update_routines(-1)
 
 class SoldierRobot(Robot):
     def __init__(self, name, age, weapons):
@@ -46,3 +46,5 @@ class SoldierRobot(Robot):
 robot2 = SoldierRobot("Chuck88" , 5 , ["laser" , "shield" , "cannon"])
 print(robot2.name)
 robot2.list_weapons()
+
+
